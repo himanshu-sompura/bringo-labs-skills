@@ -66,7 +66,7 @@ Base the journey on actual research when available. Treat inferred motivations a
 
 ### Step 3 — Plan the Page Structure
 
-Consult `references/page-copy.md`.
+Use [page-strcture.md](references/page-strcture.md) when planning a full page or changing section order. Place the answer to the buyer’s strongest unresolved doubt early and check the outline in mobile reading order.
 
 - Select the fewest sections necessary to support an informed decision.
 - Assign each section one primary buying question.
@@ -143,7 +143,8 @@ Avoid lengthy rationales unless requested.
 | Reference                    | Use                                                                  |
 | ---------------------------- | -------------------------------------------------------------------- |
 | `references/discovery.md`    | Strategic discovery questions and input validation                   |
-| `references/page-copy.md`    | Section architecture, copy principles, persuasion, and decision flow |
+| `references/page-strcture.md` | Section order, answer placement, and mobile reading order           |
+| `references/page-copy.md`    | Copy principles and guidance for writing each section                |
 | `references/copy-frameworks.md` | Drafting patterns for openings, benefits, proof, and CTAs            |
 | `references/natural-transitions.md` | Checks for connecting adjacent sections and sharpening headings     |
 | `references/final-review.md` | Quick copy checks during drafting                                    |
