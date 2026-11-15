@@ -96,7 +96,7 @@ Write actual, implementation-ready copy, not explanations or placeholders where 
 
 ### Step 5 — Review and Refine
 
-Use `references/final-review.md`.
+Use [quality-check.md](references/quality-check.md) as the final gate for drafts and audits. For section edits, apply the checks relevant to the change. Use `references/final-review.md` for a quick copy pass while drafting.
 
 Evaluate the draft against five conversion-quality filters:
 
@@ -110,7 +110,7 @@ Also verify message match, evidence relevance, heading-only comprehension, CTA c
 
 Identify failures, rewrite the affected sections, and recheck.
 
-**Output:** A refined draft with no unresolved critical quality failures.
+**Output:** A refined draft with any remaining blockers flagged. For audits, report the gate verdict and the fixes needed.
 
 ### Step 6 — Finalize and Deliver
 
@@ -146,7 +146,8 @@ Avoid lengthy rationales unless requested.
 | `references/page-copy.md`    | Section architecture, copy principles, persuasion, and decision flow |
 | `references/copy-frameworks.md` | Drafting patterns for openings, benefits, proof, and CTAs            |
 | `references/natural-transitions.md` | Checks for connecting adjacent sections and sharpening headings     |
-| `references/final-review.md` | Quality criteria, conversion checks, and buyer comprehension testing |
+| `references/final-review.md` | Quick copy checks during drafting                                    |
+| `references/quality-check.md` | Final readiness verdict, evidence checks, and CTA review            |
 
 Load each reference at its corresponding workflow stage. Do not load unrelated reference material unnecessarily.
 
