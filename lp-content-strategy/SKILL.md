@@ -110,6 +110,8 @@ Also verify message match, evidence relevance, heading-only comprehension, CTA c
 
 Identify failures, rewrite the affected sections, and recheck.
 
+When testing with likely buyers, use [buyer-comprehension-test.md](references/buyer-comprehension-test.md) to check whether they understand the offer, fit, and next step.
+
 **Output:** A refined draft with any remaining blockers flagged. For audits, report the gate verdict and the fixes needed.
 
 ### Step 6 — Finalize and Deliver
@@ -149,6 +151,7 @@ Avoid lengthy rationales unless requested.
 | `references/natural-transitions.md` | Checks for connecting adjacent sections and sharpening headings     |
 | `references/final-review.md` | Quick copy checks during drafting                                    |
 | `references/quality-check.md` | Final readiness verdict, evidence checks, and CTA review            |
+| `references/buyer-comprehension-test.md` | Short test for buyer understanding and first action                  |
 
 Load each reference at its corresponding workflow stage. Do not load unrelated reference material unnecessarily.
 
