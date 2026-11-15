@@ -39,22 +39,13 @@ Prioritize conversion over content volume, clarity over cleverness, and customer
 
 ### Step 1 — Establish the Strategic Brief
 
-Read the user's existing materials before asking questions.
+Read the brief, offer, entry message, and customer evidence first. Reuse confirmed answers.
 
-Use `references/discovery.md` to establish:
+Use `references/discovery.md`. Ask up to three short questions at a time. Ask only if the answer could change the audience, promise, section order, proof, or CTA.
 
-- **Audience:** ICP, awareness stage, customer language, and buying situation.
-- **Problem:** Pain points, triggers, current alternatives, and urgency.
-- **Desired outcome:** The result or transformation the buyer values.
-- **Offer:** Deliverables, mechanism, pricing, terms, and differentiation.
-- **Trust:** Evidence, credibility, customer objections, and perceived risks.
-- **Conversion:** Traffic source, entry promise, primary CTA, and what happens next.
+Draft once the buyer, entry promise, offer, and next action are clear.
 
-Ask focused follow-ups only for material information gaps.
-
-Distinguish verified facts, user-provided claims, and assumptions.
-
-**Output:** A concise strategic brief that guides the copy.
+**Output:** A short internal brief covering the buyer and trigger, entry promise, offer and outcome, main objection, usable proof, and CTA with its next step.
 
 ### Step 2 — Map the Buyer's Decision Journey
 
