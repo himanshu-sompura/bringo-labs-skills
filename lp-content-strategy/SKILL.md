@@ -79,7 +79,7 @@ Consult `references/page-copy.md`.
 
 ### Step 4 — Write Conversion-Focused Copy
 
-Apply the writing principles in `references/page-copy.md`.
+Apply the writing principles in `references/page-copy.md`. Consult [copy-frameworks.md](references/copy-frameworks.md) when choosing an opening or strengthening a section’s benefit, proof, or CTA.
 
 - Make the offer and its relevance understandable immediately.
 - Lead with specific buyer-relevant outcomes.
@@ -144,6 +144,7 @@ Avoid lengthy rationales unless requested.
 | ---------------------------- | -------------------------------------------------------------------- |
 | `references/discovery.md`    | Strategic discovery questions and input validation                   |
 | `references/page-copy.md`    | Section architecture, copy principles, persuasion, and decision flow |
+| `references/copy-frameworks.md` | Drafting patterns for openings, benefits, proof, and CTAs            |
 | `references/final-review.md` | Quality criteria, conversion checks, and buyer comprehension testing |
 
 Load each reference at its corresponding workflow stage. Do not load unrelated reference material unnecessarily.
