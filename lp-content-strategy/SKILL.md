@@ -72,7 +72,7 @@ Consult `references/page-copy.md`.
 - Assign each section one primary buying question.
 - Give each major question one clear place in the page.
 - Position proof, pricing, and objection handling where they are most relevant.
-- Use natural transitions created by the next logical buying question.
+- Use the next logical buying question to connect sections. Consult [natural-transitions.md](references/natural-transitions.md) when adjacent sections feel disconnected.
 - Give ready buyers an early conversion opportunity while providing enough information for less-ready visitors.
 
 **Output:** A section outline with the purpose and key message of each section.
@@ -145,6 +145,7 @@ Avoid lengthy rationales unless requested.
 | `references/discovery.md`    | Strategic discovery questions and input validation                   |
 | `references/page-copy.md`    | Section architecture, copy principles, persuasion, and decision flow |
 | `references/copy-frameworks.md` | Drafting patterns for openings, benefits, proof, and CTAs            |
+| `references/natural-transitions.md` | Checks for connecting adjacent sections and sharpening headings     |
 | `references/final-review.md` | Quality criteria, conversion checks, and buyer comprehension testing |
 
 Load each reference at its corresponding workflow stage. Do not load unrelated reference material unnecessarily.
