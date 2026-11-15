@@ -1,170 +1,35 @@
 ---
 name: lp-content-strategy
-description: Write, revise, or audit conversion-focused landing page copy for full pages or individual sections. Use for campaign landing pages that need a strategic brief, buyer decision flow, hero, offer, proof, pricing, objection handling, CTAs, or form and confirmation copy.
+description: Write, revise, or audit paste-ready campaign landing page copy, from a hero or CTA to a full page and its form or confirmation. Use for ad, search, or outreach pages that need a clear offer, relevant proof, buyer objections answered, and a next step that matches the real flow. For requests limited to visual design, implementation, analytics setup, ads, or articles, use the corresponding workflow.
 ---
 
 # Landing Page Copy Strategist
 
-## 1. Purpose
+Help the intended visitor understand the offer, decide whether it fits, and take the intended next step. Use one primary buyer, entry promise, offer, and action per page by default.
 
-Create clear, persuasive, audience-specific landing page copy that helps visitors understand the offer, recognize its value, resolve buying doubts, and take the desired action.
+## Workflow
 
-**Primary objective:** Turn customer insights, offer strategy, and buying psychology into concise, credible, section-by-section copy organized around the visitor's decision-making journey.
+1. **Confirm the brief.** Read supplied materials first. Establish buyer and trigger, traffic and entry promise, offer and terms, main doubt and available proof, and what happens after the CTA. Resolve conflicts using clearly current approved sources before deciding what is missing. If the brief is sufficient, skip [discovery.md](references/discovery.md). Open it only when an unresolved gap could change the copy or buyer research needs interpretation. Ask up to three focused questions at a time. Once the minimum brief is clear, draft. Continue with supported copy when a gap can be worked around and flag material assumptions afterward.
+2. **Map the decision.** For a full page or section-order change, use [page-structure.md](references/page-structure.md). Start with the offer and an early route to act, then place the strongest unresolved doubt before the commitment it affects. Give each section one buyer question. Preserve an approved order and flag a consequential placement problem. For an isolated edit, inspect affected neighbors and preserve the rest.
+3. **Draft.** Carry the entry promise into the first screen. Explain the concrete mechanism, put proof beside the claim it supports, and make the action and immediate next step explicit. Use [copy-frameworks.md](references/copy-frameworks.md) to choose a lead, sharpen value or evidence, or write form and confirmation states. Use one paste-ready version by default. Use separate variants when different campaigns promise materially different things and the user needs both.
+4. **Check, fix, and recheck.** Run the applicable checks in [quality-check.md](references/quality-check.md) against the brief, approved terms, evidence, and actual or documented CTA path. Fix supported failures and rerun affected checks. Flag blockers when a material conflict or missing fact prevents a truthful rewrite. Use [buyer-comprehension-test.md](references/buyer-comprehension-test.md) when preparing or interpreting tests with representative buyers.
+5. **Return the requested deliverable.** Use the formats below. A draft is ready when the applicable checks pass. Disclose any material blocker or interaction that still needs verification where it affects readiness.
 
-Prioritize conversion over content volume, clarity over cleverness, and customer relevance over generic persuasion.
+Use [research-and-examples.md](references/research-and-examples.md) when a difficult decision needs a worked precedent or the user asks for the evidence behind a recommendation.
 
-## 2. Core Principles
+## Gotchas
 
-1. **Match visitor intent.** Align the entry message, headline, offer, and CTA with the same audience, problem, and desired outcome.
-2. **Follow the buyer's thinking.** Give every section one buying question to answer. Reveal information when visitors are most likely to need it.
-3. **Communicate concrete value.** Explain what the buyer gets, how the solution works, and why it is worth choosing.
-4. **Make claims believable.** Support important promises with relevant evidence. Place proof close to the claim it supports.
-5. **Reduce decision friction.** Address objections, uncertainty, risk, pricing, responsibilities, and commitment without unnecessary information.
-6. **Optimize for scanning.** Write meaningful headings, concise supporting copy, and clear CTAs. Preserve details essential to buying decisions.
-7. **Build decision momentum.** Every section should advance understanding, relevance, confidence, or action.
+- **Traffic mismatch.** Verify the actual ad, search intent, or outreach message. If unavailable, lead with the confirmed offer and mark message match unverified.
+- **Evidence drift.** Check what the claim implies. More enquiries cannot establish faster enrollments. Verify numbers, scope, and permission against approved sources before recommending publication. Narrow the promise or omit the claim when needed.
+- **Responsibility drift.** Preserve who does the work, eligibility, fees, timing, and other commitments when shortening. Resolve material conflicts against the current approved source or flag the exact decision needed.
+- **False completion.** An email draft, submitted form, and reserved booking are different states. Verify the actual or documented next step. Use live interactions only within the requested scope and obtain explicit authorization before a real submission or booking. Report which flow was checked.
 
-## 3. Non-Negotiable Rules
+## Output
 
-- Ask questions only when the answers could materially change the copy. Reuse existing context before requesting information.
-- Never invent customer insights, statistics, testimonials, results, guarantees, or differentiators.
-- Never use vague promises, unnecessary jargon, exaggerated language, or artificial urgency.
-- Never write educational or blog-style content when concise conversion copy is sufficient.
-- Never repeat information across sections without a specific decision-making reason.
-- Never sacrifice essential buying details just to make the copy shorter.
-- Never add a section without identifying the buyer question it answers.
-- Never confuse high-converting copy with guaranteed conversion performance.
-- If evidence is missing, narrow the claim or flag the proof requirement instead of inventing support.
+| Request | Deliver |
+| --- | --- |
+| Full page | Hero headline → supporting copy → CTA and next-step note → sections in reading order, with evidence beside claims → final action → form and confirmation where in scope. Put material assumptions or blockers after the copy. |
+| Section or revision | Paste-ready copy for the requested area. Include only adjacent wording needed to make the change accurate. Flag any consequential conflict separately. |
+| Audit | PASS, REVISE, or BLOCKED → exact line or missing detail → effect on the buyer's decision → smallest supported fix or rewrite. Order findings by decision impact. |
 
-## 4. Execution Workflow
-
-### Step 1 — Establish the Strategic Brief
-
-Read the brief, offer, entry message, and customer evidence first. Reuse confirmed answers.
-
-Use `references/discovery.md`. Ask up to three short questions at a time. Ask only if the answer could change the audience, promise, section order, proof, or CTA.
-
-Draft once the buyer, entry promise, offer, and next action are clear.
-
-**Output:** A short internal brief covering the buyer and trigger, entry promise, offer and outcome, main objection, usable proof, and CTA with its next step.
-
-### Step 2 — Map the Buyer's Decision Journey
-
-Identify the visitor's likely thinking sequence:
-
-- Why did they arrive, and what do they expect?
-- What must they understand immediately?
-- What makes the offer relevant and desirable?
-- What must they believe before choosing it?
-- What doubts could prevent action?
-- What information makes the next step feel worthwhile?
-
-Arrange these questions in logical decision order.
-
-Base the journey on actual research when available. Treat inferred motivations and objections as hypotheses.
-
-**Output:** An ordered map of buying questions, supporting information, objections, and evidence.
-
-### Step 3 — Plan the Page Structure
-
-Use [page-strcture.md](references/page-strcture.md) when planning a full page or changing section order. Place the answer to the buyer’s strongest unresolved doubt early and check the outline in mobile reading order.
-
-- Select the fewest sections necessary to support an informed decision.
-- Assign each section one primary buying question.
-- Give each major question one clear place in the page.
-- Position proof, pricing, and objection handling where they are most relevant.
-- Use the next logical buying question to connect sections. Consult [natural-transitions.md](references/natural-transitions.md) when adjacent sections feel disconnected.
-- Give ready buyers an early conversion opportunity while providing enough information for less-ready visitors.
-
-**Output:** A section outline with the purpose and key message of each section.
-
-### Step 4 — Write Conversion-Focused Copy
-
-Apply the writing principles in `references/page-copy.md`. Consult [copy-frameworks.md](references/copy-frameworks.md) when choosing an opening or strengthening a section’s benefit, proof, or CTA.
-
-- Make the offer and its relevance understandable immediately.
-- Lead with specific buyer-relevant outcomes.
-- Explain the mechanism that produces the promised benefit.
-- Communicate meaningful differentiation rather than generic superiority.
-- Place suitable evidence beside the claims it supports.
-- Use natural language, informative headings, and scannable supporting copy.
-- Keep one primary conversion action consistent throughout the page.
-- Explain what the CTA starts and what happens afterward.
-
-Write actual, implementation-ready copy, not explanations or placeholders where verified information is available.
-
-**Output:** Complete copy arranged in page order.
-
-### Step 5 — Review and Refine
-
-Use [quality-check.md](references/quality-check.md) as the final gate for drafts and audits. For section edits, apply the checks relevant to the change. Use `references/final-review.md` for a quick copy pass while drafting.
-
-Evaluate the draft against five conversion-quality filters:
-
-1. **Five-Second Clarity:** Offer, audience, value, and action are immediately understandable.
-2. **Problem–Desire Alignment:** The copy reflects meaningful customer problems, motivations, and desired outcomes.
-3. **Differentiation & Perceived Value:** The offer's mechanism, benefits, and reasons to choose it are concrete.
-4. **Believability & Objection Removal:** Claims are credible and material purchase concerns are addressed.
-5. **Decision Momentum & Action Clarity:** Information follows the buying journey and makes the next action clear.
-
-Also verify message match, evidence relevance, heading-only comprehension, CTA consistency, and mobile scannability.
-
-Identify failures, rewrite the affected sections, and recheck.
-
-When testing with likely buyers, use [buyer-comprehension-test.md](references/buyer-comprehension-test.md) to check whether they understand the offer, fit, and next step.
-
-**Output:** A refined draft with any remaining blockers flagged. For audits, report the gate verdict and the fixes needed.
-
-### Step 6 — Finalize and Deliver
-
-Deliver according to the user's requested scope.
-
-**Full landing page**
-
-- One paste-ready page in final section order.
-- Complete headlines, supporting copy, relevant proof captions, and CTA labels.
-- Include form and confirmation copy when part of the requested conversion journey.
-- Add a brief note afterward for material assumptions or missing publication-critical facts.
-
-**Individual section or revision**
-
-- Return only the requested copy.
-- Preserve approved facts, positioning, and content outside the requested scope.
-- Provide alternatives only when requested or materially useful.
-
-**Copy audit**
-
-- Identify the most important conversion weaknesses.
-- Explain how each issue affects the buyer's decision.
-- Recommend precise fixes and provide improved copy.
-- Prioritize findings by likely impact rather than listing every minor issue.
-
-Avoid lengthy rationales unless requested.
-
-## 5. Reference Files
-
-| Reference                    | Use                                                                  |
-| ---------------------------- | -------------------------------------------------------------------- |
-| `references/discovery.md`    | Strategic discovery questions and input validation                   |
-| `references/page-strcture.md` | Section order, answer placement, and mobile reading order           |
-| `references/page-copy.md`    | Copy principles and guidance for writing each section                |
-| `references/copy-frameworks.md` | Drafting patterns for openings, benefits, proof, and CTAs            |
-| `references/natural-transitions.md` | Checks for connecting adjacent sections and sharpening headings     |
-| `references/final-review.md` | Quick copy checks during drafting                                    |
-| `references/quality-check.md` | Final readiness verdict, evidence checks, and CTA review            |
-| `references/buyer-comprehension-test.md` | Short test for buyer understanding and first action                  |
-
-Load each reference at its corresponding workflow stage. Do not load unrelated reference material unnecessarily.
-
-## 6. Completion Standard
-
-Before delivering, verify that the landing page answers:
-
-1. Is this relevant to me?
-2. What do I get, and why does it matter?
-3. How does it work, and why choose this offer?
-4. What evidence makes it trustworthy?
-5. What happens if I take the next step?
-
-**Final rule:** Every section must earn its place by increasing relevant value, reducing uncertainty, strengthening credibility, or advancing the buyer's decision.
-
-Delivery is complete when the requested copy is ready to implement, with any material unresolved facts explicitly identified. Actual conversion effectiveness must be validated through user feedback and live performance data.
+Editorial readiness comes from the checks above. Conversion impact requires live data tied to the intended outcome.

@@ -1,31 +1,29 @@
-# Landing Page Research and Examples
+# Landing page research and examples
 
-Use these sources to guide copy decisions. The strength and scope of the evidence matter. Research about scanning informs readability. A campaign case study can suggest a test. Measure conversion effects on the actual page and traffic.
+Use when a decision needs a worked precedent or the user asks for its evidence. Apply examples only to comparable contexts. Use the current approved offer and actual path for publishable drafts.
 
-## Sources
+## Worked decisions
 
-| Source | Apply it to | Scope |
-| --- | --- | --- |
-| [Google Ads Help — Optimize your ads and landing pages](https://support.google.com/google-ads/answer/6238826?hl=en) | Continue the ad and keyword promise and carry the expected action onto the page. | Official guidance for Google Ads. Other channels benefit from testing the same continuity principle against their traffic. |
-| [Nielsen Norman Group — How Long Do Users Stay on Web Pages?](https://www.nngroup.com/articles/how-long-do-users-stay-on-web-pages/) | Make the first screen communicate the offer and value immediately. Ask a representative visitor to explain both after a brief look. | Web browsing research. A brief comprehension check is a drafting heuristic. Conversion impact requires measurement. |
-| [Nielsen Norman Group — How Users Read on the Web](https://www.nngroup.com/articles/how-users-read-on-the-web/) | Make copy easy to scan with descriptive headings, concise paragraphs, and the important information first. | Usability research about reading behaviour. |
-| [MarketingExperiments — Clarity Trumps Persuasion](https://marketingexperiments.com/value-proposition/clarity-trumps-persuasion) | Test a direct explanation of the offer and value when a clever or abstract headline hides them. | Examples from specific experiments. Apply the hypothesis to your audience and use your own results. |
-| [Unbounce — The Guide to Landing Page Copywriting](https://unbounce.com/landing-page-copywriting/) | Use proof that supports the claim it sits beside. Tell the visitor what the CTA leads to. | Practitioner guidance for applying message match, social proof, and CTA wording. |
-| [Baymard Institute — Checkout Optimization: Minimize Form Fields](https://baymard.com/research-articles/checkout-flow-average-form-fields) | Review every field and keep the ones needed for the transaction or the next step. | Ecommerce checkout research. Apply it as a hypothesis to lead forms and preserve fields needed for qualification. |
-| [Google Analytics Help — Engagement rate and bounce rate](https://support.google.com/analytics/answer/12195621?hl=en) | Use bounce rate to investigate traffic and engagement. Pair it with the intended action and lead quality when available. | In GA4, bounce rate is the share of sessions that did not meet the engaged-session criteria. |
+### Cold outreach to live-cohort founders
 
-## Illustrative examples
+A historical Bringo Enrollment Engine brief covered Search ads, a programme page, qualification, and paid-enrollment tracking. The client's admissions owner handled follow-up. The exact outreach text was missing and the drafts disagreed about the setup fee and CTA path.
 
-### Match an urgent search and explain the next step
+- **Decision.** Open with “Google Ads management for live training cohorts.” Explain the tracking and handoff beside the service description. Check the actual outreach before calling message match verified.
+- **Proof.** A sample report can show how enquiries, qualified enquiries, and recorded payments appear. Label illustrative values. An enquiry increase supports an enquiry claim. Enrollment speed needs enrollment data.
+- **Terms and action.** Confirm the current fee and separate ad spend. When the documented form prepares an email, “Prepare My Enquiry” and “Email draft ready. Open it and send your details.” match that path. A different, verified booking flow requires different labels and status copy.
 
-Incoming ad: “After-hours exhaust cleaning for Ahmedabad restaurants. Request a site visit.”
+### Urgent search for a specific service
 
-**Headline:** After-hours exhaust cleaning for Ahmedabad restaurants  
-**Subhead:** We clean hoods, filters, and accessible duct sections after your kitchen closes. You get photos and a written record of any sections we couldn’t reach.  
-**CTA:** Request a site visit
+Illustrative search ad: “After-hours exhaust cleaning for Ahmedabad restaurants. Request a site visit.” Lead with the exact service and operating constraint. Explain that the crew cleans accessible sections after closing and provides a written record. If the confirmed flow is a callback to arrange a visit, say so beside “Request a site visit.”
 
-If the CTA opens an enquiry form and the team calls to arrange the visit, use: “Share your restaurant details and we’ll call to arrange a visit.” Confirm that follow-up before publishing. If two sources give conflicting prices, omit the price until confirmed unless the incoming ad promises a price or the price is essential to the decision. In that case, resolve the conflict before treating the draft as publishable.
+## Sources by decision
 
-### Keep a case study within the evidence
-
-If an approved case study reports more enquiries, describe the enquiry change. A statement such as “Monthly enquiries rose from 80 to 104 over two months” supports an enquiry claim. Use a paid-enrolment claim only when the data measures paid enrolments. If a case study is unavailable, show an actual deliverable, such as an approved sample report, and describe what it shows.
+| Decision | Source and scope |
+| --- | --- |
+| Entry promise and action | [Google Ads Help on matching ads and landing pages](https://support.google.com/google-ads/answer/6238826?hl=en). Official search campaign guidance. |
+| Headings and reading order | [Nielsen Norman Group on how people scan headings](https://www.nngroup.com/articles/layer-cake-pattern-scanning/). Usability evidence, useful for finding answers. |
+| Buyer interviews and scenarios | [GOV.UK on in-depth interviews](https://www.gov.uk/service-manual/user-research/using-in-depth-interviews) and [Nielsen Norman Group on task scenarios](https://www.nngroup.com/articles/task-scenarios-usability-testing/). Use actual decisions and neutral tasks. |
+| Positioning against real alternatives | [April Dunford's positioning guide](https://www.aprildunford.com/post/a-quickstart-guide-to-positioning). Practitioner framework. |
+| Evidence and objection placement | [Copyhackers on trust signals](https://copyhackers.com/2022/06/trust-signals-boost-conversions/) and [MarketingExperiments on product-page anxiety](https://marketingexperiments.com/conversion-marketing/testing-for-anxiety-in-product-pages). Use as ideas to test with your campaign. |
+| Action and confirmation states | [GOV.UK Design System on buttons](https://design-system.service.gov.uk/components/button/) and [confirmation pages](https://design-system.service.gov.uk/patterns/confirmation-pages/). Use to describe the immediate action and confirmed outcome. |
+| Form effort | [Baymard on checkout fields](https://baymard.com/research-articles/checkout-flow-average-form-fields). Ecommerce findings can suggest lead-form tests. Preserve fields needed for qualification. |
