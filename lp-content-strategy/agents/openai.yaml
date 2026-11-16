@@ -1,4 +1,0 @@
-interface:
-  display_name: "Landing Page Copy Strategist"
-  short_description: "Write, revise, or audit landing page copy"
-  default_prompt: "Use $lp-content-strategy to review my campaign brief and draft paste-ready landing page copy."
