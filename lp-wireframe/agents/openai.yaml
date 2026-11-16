@@ -1,0 +1,4 @@
+interface:
+  display_name: "Landing Page Wireframe"
+  short_description: "Turn landing page copy into a responsive wireframe"
+  default_prompt: "Use $lp-wireframe to turn my landing page copy into a responsive wireframe with clear proof, mobile order, and CTA states."
