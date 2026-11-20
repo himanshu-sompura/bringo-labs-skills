@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Manager"
+  short_description: "Turn clarified outcomes into actionable ClickUp plans"
+  default_prompt: "Use $project-manager to clarify my outcome with at least 10 questions, resolve missing requirements, and build a phased ClickUp project plan."
